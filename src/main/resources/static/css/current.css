@@ -1,0 +1,15 @@
+.non-visible {
+    display: none;
+}
+
+#container2 {
+    float: right;
+    bottom: auto;
+
+}
+
+#image {
+    float: left;
+    bottom: auto;
+
+}
